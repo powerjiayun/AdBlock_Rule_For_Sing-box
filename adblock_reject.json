@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -106438,6 +106439,7 @@
         "web.advertising.naylor.com",
         "web.ajostg.cfs.com.au",
         "web.ajostg.colonialfirststate.com.au",
+        "web.analytics.metrobyt-mobile.com",
         "web.araglegal.com",
         "web.autobodytoolmart.com",
         "web.autovista.fr",
@@ -112986,6 +112988,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
