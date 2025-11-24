@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -56681,6 +56682,7 @@
         "live.xcamshd.live",
         "live.zrmtrm.com",
         "liveandsexy.cam",
+        "livechat.oyunfor.com",
         "livecounter.theyosh.nl",
         "livestt.co",
         "livetex.ru",
@@ -106001,6 +106003,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
