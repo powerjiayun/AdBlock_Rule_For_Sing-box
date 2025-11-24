@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -17405,6 +17404,7 @@
         "armail.riskadvice.com",
         "armail.tninsurancedepot.com",
         "armail.underwoodanderson.com",
+        "armpitgratitudecruelty.com",
         "armwnp.rockabilly-rules.com",
         "arofloemail.ajts.com.au",
         "arofloemail.aroflo.com",
@@ -112994,5 +112994,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
