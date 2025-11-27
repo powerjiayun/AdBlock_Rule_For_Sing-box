@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -65802,6 +65803,7 @@
         "omni.turkcell.com.tr",
         "omni.westernasset.com",
         "omni.yellowpages.com",
+        "omniqa.ru",
         "omnis.basspro.com",
         "omnis.bd.pcmall.com",
         "omnis.pcmall.com",
@@ -106012,6 +106014,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
