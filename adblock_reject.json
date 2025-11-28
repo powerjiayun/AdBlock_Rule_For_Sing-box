@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -58690,6 +58691,7 @@
         "logperf.vnexpress.net",
         "logql.yahoo.co.jp",
         "logr-ingest.com",
+        "logrcv.adseyeservice.com",
         "logreport-global-dual.coolbcloud.com",
         "logreport-global-dual.coolhcloud.com",
         "logrocket.com",
@@ -106014,6 +106016,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
