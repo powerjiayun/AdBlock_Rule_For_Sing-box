@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -19597,7 +19596,6 @@
         "brooksbrothers.tt.omtrdc.net",
         "brotherinternational.tt.omtrdc.net",
         "brownie.omg.adult",
-        "browser.events.data.microsoft.com",
         "browser.events.data.msn.cn",
         "browser.events.data.msn.com",
         "browsercfg-drcn.cloud.dbankcloud.cn",
@@ -106018,5 +106016,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
