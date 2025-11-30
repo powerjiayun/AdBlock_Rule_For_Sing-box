@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -85170,7 +85171,6 @@
         "stat.gspaceteam.com",
         "stat.guiasjuridicas.es",
         "stat.hitosara.com",
-        "stat.i3.dmm.com",
         "stat.incompliance.cz",
         "stat.indidata.com",
         "stat.jogtar.hu",
@@ -106016,6 +106016,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
