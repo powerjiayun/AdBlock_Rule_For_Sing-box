@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -24301,7 +24300,6 @@
         "cmp-cdn.ghostery.com",
         "cmp.audi.be",
         "cmp.audifinance.be",
-        "cmp.bonniernews.se",
         "cmp.cupra.be",
         "cmp.dieteren.be",
         "cmp.dieterencenters.be",
@@ -106279,5 +106277,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
