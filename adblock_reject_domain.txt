@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-02 17:53:42
+# Generated on: 2025-12-02 18:28:19
 # Generated AdBlock rules
-# Total entries: 106273
+# Total entries: 106274
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -88904,6 +88904,7 @@
 "tags.mattressfirm.com",
 "tags.microbank.com",
 "tags.mindbodyonline.com",
+"tags.mlytics.com",
 "tags.moneytopay.com",
 "tags.mutua.es",
 "tags.mwg.aaa.com",
