@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -89499,6 +89500,7 @@
         "tc.mnbvcxzq.com",
         "tc.qzwxrtyk.com",
         "tc.techieustad.com",
+        "tc.vbnmhjlp.com",
         "tcbphila.fmservice.com",
         "tcbps.ellos.us",
         "tccbanner.com",
@@ -106278,6 +106280,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
