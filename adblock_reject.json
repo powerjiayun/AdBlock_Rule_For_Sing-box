@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -100880,6 +100879,7 @@
         "whatif.uk.adobe.com",
         "whatsnext.internationalpaper.com",
         "whcmij.altitude-sports.com",
+        "wheelify-front.carecart.io",
         "wheelpros.tt.omtrdc.net",
         "whehilru.com",
         "wheoze.msf.or.jp",
@@ -106283,5 +106283,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
