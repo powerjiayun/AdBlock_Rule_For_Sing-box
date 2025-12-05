@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-06 01:51:55
+# Generated on: 2025-12-06 02:33:18
 # Generated AdBlock rules
-# Total entries: 106290
+# Total entries: 106294
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -40648,6 +40648,7 @@
 "events.geckoal.com",
 "events.getmodemagic.com",
 "events.getsitectrl.com",
+"events.gfe.nvidia.com",
 "events.hermanmiller.com",
 "events.hill-murray.org",
 "events.iap.unity3d.com",
@@ -48494,6 +48495,7 @@
 "gwt.businessheroes.io",
 "gwtc.sfr.fr",
 "gwupkw.flexform.com.br",
+"gx-target-experiments-frontend-api.gx.nvidia.com",
 "gx0.funfuckmovies.com",
 "gximqn.lojamundi.com.br",
 "gxjnyy.contorion.fr",
@@ -70020,6 +70022,7 @@
 "prod.cm.publishers.advertising.a2z.com",
 "prod.event.mwm-asset-manager.mwmwebapis.com",
 "prod.nitrosniffer.ottogroup.io",
+"prod.otel.kaizen.nvidia.com",
 "prod.report.nacustomerexperience.citi.com",
 "prod.tahoe-analytics.publishers.advertising.a2z.com",
 "prod.us-east-1.cxm-bcn.publisher-services.amazon.dev",
@@ -89781,6 +89784,7 @@
 "telemetry.commonspirit.org",
 "telemetry.doitbeststore.com",
 "telemetry.dzen.ru",
+"telemetry.gfe.nvidia.com",
 "telemetry.goodlifefitness.com",
 "telemetry.individual.githubcopilot.com",
 "telemetry.insights.video.a2z.com",
