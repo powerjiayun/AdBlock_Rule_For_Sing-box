@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -89755,8 +89754,9 @@
         "telecomitalia.tt.omtrdc.net",
         "telefonicavivo.tt.omtrdc.net",
         "telegraf.detmir-stats.ru",
-        "telegraph.prd.api.bleacherreport.com",
         "telegraph.prd.api.discomax.com",
+        "telegraph.prd.api.discoveryplus.com",
+        "telegraph.prd.api.hbomax.com",
         "telegraph.prd.api.max.com",
         "telegraphmediagroupl.tt.omtrdc.net",
         "telehealth.bioserenity.com",
@@ -106294,5 +106294,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
