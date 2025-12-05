@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -22438,6 +22437,7 @@
         "click.leasing.bankofamerica.com",
         "click.legacyscs-mail.com",
         "click.leinsterrugby.mobi",
+        "click.lenovo.com",
         "click.level.centralmediacsoport.hu",
         "click.lifemission.church",
         "click.lilly-email.com",
@@ -106292,5 +106292,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
