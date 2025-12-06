@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-06 19:30:38
+# Generated on: 2025-12-06 19:47:52
 # Generated AdBlock rules
-# Total entries: 106294
+# Total entries: 106295
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -93527,6 +93527,7 @@
 "tracking-driver.staging.goshare.co",
 "tracking-explore-dev.agilent.com",
 "tracking-explore-uat.agilent.com",
+"tracking-live.kr3m.com",
 "tracking-rce.veeseo.com",
 "tracking-receiver.prod-general.stocard-backend.com",
 "tracking-sales-pop.carecart.io",
