@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -69509,6 +69508,7 @@
         "pm.eu.viatrisconnect.it",
         "pm.pmu.fr",
         "pm.poqwua.cn",
+        "pm.redbull.com",
         "pm1.superchat.live",
         "pm7svehxoymqsng-p.adktrack44.xyz",
         "pma2.xhlive.cam",
@@ -106299,5 +106299,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
