@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -13198,7 +13199,6 @@
         "analytics-ingestion.production-public.tubi.io",
         "analytics-ingress-global.bitmovin.com",
         "analytics-ingress.bitmovin.com",
-        "analytics-ipv6.tiktokw.us",
         "analytics-la-nwsl.yinzcam.com",
         "analytics-lac-nba.yinzcam.com",
         "analytics-league-apl.yinzcam.com",
@@ -105103,6 +105103,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
