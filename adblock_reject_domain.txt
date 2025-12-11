@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-11 15:39:34
+# Generated on: 2025-12-11 15:51:52
 # Generated AdBlock rules
-# Total entries: 105099
+# Total entries: 105100
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -63569,6 +63569,7 @@
 "nexipayments.tt.omtrdc.net",
 "next.maispassagens.com.br",
 "next.minutodenoticias.com",
+"nextacdn.top",
 "nextjscms-sgtm.1800gotjunk.com",
 "nextstape.ppowerup.com.br",
 "nexus-svc.sc.com",
