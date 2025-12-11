@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
@@ -63565,6 +63564,7 @@
         "nexipayments.tt.omtrdc.net",
         "next.maispassagens.com.br",
         "next.minutodenoticias.com",
+        "nextacdn.top",
         "nextjscms-sgtm.1800gotjunk.com",
         "nextstape.ppowerup.com.br",
         "nexus-svc.sc.com",
@@ -105104,5 +105104,6 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ]
+  ],
+  "version": 1
 }
