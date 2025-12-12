@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -68610,6 +68611,7 @@
         "preanalytication.com",
         "prebid-log.getpublica.com",
         "prebid-server-canary.ifunny.co",
+        "prebid-server.newsbreak.com",
         "prebid.loopmertb.com",
         "prebid.scope3.com",
         "predataclient.b-cdn.net",
@@ -105114,6 +105116,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
