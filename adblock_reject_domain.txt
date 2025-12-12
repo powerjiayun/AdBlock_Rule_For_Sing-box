@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Sing-box/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-13 00:55:06
+# Generated on: 2025-12-13 01:23:47
 # Generated AdBlock rules
-# Total entries: 105116
+# Total entries: 105117
 
 "0--skitch--0.tt.omtrdc.net",
 "0-0-0-birkart-clws-ifs-globalmn.0-030.net.daraz.com",
@@ -11365,6 +11365,7 @@
 "ads.imgdesu.art",
 "ads.imovideo.ru",
 "ads.info.doordash.com",
+"ads.inmobi.com",
 "ads.intellidoctor.ai",
 "ads.iosappsworld.com",
 "ads.its-newid.net",
@@ -41683,6 +41684,7 @@
 "gl-product-analytics.com",
 "gl1kps7xasxt2bp-p.clickomo.fr",
 "glamipixel.com",
+"glance.inmobi.com",
 "glass.notifysrv.com",
 "glassy.glassybot.com",
 "glaxosmithklinebeech.tt.omtrdc.net",
@@ -50847,7 +50849,6 @@
 "inmense.site",
 "inmmyp.lenspecsmu.ru",
 "inmobi.cn",
-"inmobi.com",
 "inmobi.net",
 "inmobicdn.net",
 "inmobisdk-a.akamaihd.net",
