@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "rules": [
     {
       "domain": [
@@ -69403,6 +69404,7 @@
         "python.jukejuke.app",
         "pywiia.lfmall.co.kr",
         "pyxis.atp.fox",
+        "pzapi-nb.com",
         "pzcld.easymealz.ca",
         "pzd.rakuten.co.jp",
         "pzdnf.salonweardirect.co.uk",
@@ -105124,6 +105126,5 @@
         "zzzoraclecloudsupportp03e10-app-trk.eloquademos.com"
       ]
     }
-  ],
-  "version": 1
+  ]
 }
